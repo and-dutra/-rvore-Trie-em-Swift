@@ -12,11 +12,3 @@ License
 ----
 
 MIT
-
-
-**Aproveite e visite meu site:**
-
-http://boostedbit.com
-
-
-
